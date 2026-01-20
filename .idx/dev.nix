@@ -21,6 +21,7 @@
       # "vscodevim.vim"
       "google.gemini-cli-vscode-ide-companion"
       "ms-python.python"
+      "mhutchie.git-graph"
     ];
     # Enable previews
     previews = {
