@@ -9,6 +9,7 @@
     pkgs.python311
     pkgs.python311Packages.pip
     pkgs.python311Packages.flask
+    pkgs.gh
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
   ];
