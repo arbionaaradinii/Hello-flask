@@ -22,6 +22,7 @@
       "google.gemini-cli-vscode-ide-companion"
       "ms-python.python"
       "mhutchie.git-graph"
+      "atlassian.atlascode"
     ];
     # Enable previews
     previews = {
