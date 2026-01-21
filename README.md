@@ -2,3 +2,12 @@ SCRUM-1 första testet
 Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
 
 Learn more at https://developers.google.com/idx/guides/customize-idx-env
+
+## Local run
+
+To run the Flask application locally, follow these steps:
+
+pip install -r requirements.txt
+python app.py
+
+The application will start on http://localhost:5000
